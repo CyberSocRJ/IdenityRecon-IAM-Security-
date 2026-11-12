@@ -1,2 +1,1 @@
-# IdenityRecon-IAM-Security-
-IAM Security Repo 
+I learn Zero findings, Zero trust JIT 
